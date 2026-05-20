@@ -1,0 +1,17 @@
+{
+  "network": "Sei Testnet",
+  "chainId": 1328,
+  "factoryAddress": "0xCc3AEb77482E21F767B5a39E29c776967Bde8d8e",
+  "tokenA": {
+    "address": "0x62b31c158549748F0c8e1497920588C73F7be0Ad",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  "tokenB": {
+    "address": "0x2B528aC1196737d8d90D9d5A86cCEE543fe6E81F",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI"
+  },
+  "deployedAt": "2026-05-20T22:38:26.970Z",
+  "deployer": "0x88D9558684D89DC573273A0149Ff4DbFc63662c8"
+}
